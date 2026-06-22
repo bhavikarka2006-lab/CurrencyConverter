@@ -4,9 +4,7 @@ A simple and responsive Currency Converter built using **HTML, CSS, and JavaScri
 
 ##  Preview
 
-## 📸 Preview
-
-![Currency Converter](Screenshot CC.png)
+![Currency Converter](screenshot.png)
 
 
 
